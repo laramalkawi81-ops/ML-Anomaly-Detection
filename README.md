@@ -62,8 +62,9 @@ The implemented models successfully detected anomalies and identified hidden str
 
 ## Author
 Prepared by: lara malkawi
+
             jana shloul
 
 Machine Learning Course Project 
 
-ى
+
